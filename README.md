@@ -1,4 +1,3 @@
-
 # Hello, I'm Toluine Ikueyemi
 <a href="https://www.linkedin.com/in/toluwalase-ikueyemi-812ab1378"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="toluikueyemi@gmail.com">
   <img src="https://img.shields.io/badge/-Email-0A66C2?&style=for-the-badge&logo=minutemailer&logoColor=white" />
@@ -8,9 +7,8 @@
 I am a cybersecurity analyst with a strong focus on Security Operations Center (SOC) operations, threat detection, and incident response. I have hands-on experience building security labs, analyzing system logs, and identifying vulnerabilities using tools such as Splunk, Wireshark, and Nessus. I am passionate about strengthening system security, detecting cyber threats, and mentoring aspiring cybersecurity professionals through practical training and real-world simulations.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+To obtain a SOC Analyst position where I can apply my skills in threat detection, security monitoring, vulnerability assessment, and incident response to help protect organizational systems and data. I aim to leverage hands-on experience with security tools such as Splunk, Wireshark, and Nessus while continuously developing my expertise in cybersecurity operations.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
