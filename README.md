@@ -1,4 +1,4 @@
-# Hello, I'm Toluine Ikueyemi
+# Hello, I'm TOLUWALASE IKUEYEMI
 <a href="https://www.linkedin.com/in/toluwalase-ikueyemi-812ab1378"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="toluikueyemi@gmail.com">
   <img src="https://img.shields.io/badge/-Email-0A66C2?&style=for-the-badge&logo=minutemailer&logoColor=white" />
 </a>
@@ -47,7 +47,6 @@ To obtain a SOC Analyst position where I can apply my skills in threat detection
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <a href="https://drive.google.com/file/d/1lDLtsp5O8QDB6sY90G0RLh64fA4m8Gbj/view?usp=drive_link" target="_blank">
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
