@@ -57,7 +57,9 @@ To obtain a SOC Analyst position where I can apply my skills in threat detection
 <a href="https://drive.google.com/file/d/1xN0diBOMLMMMk3En7XtdSj6fclN2U-6l/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/-MASTERCARD-FF0000?style=for-the-badge&logo=Mastercard&logoColor=white" />
 </a>
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<a href="https://drive.google.com/file/d/1QoO25YJzIQ7XuvJ8ScEZ20nKnQ8EcIZu/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/-SKILLWEED-28A745?style=for-the-badge&logoColor=white" alt="Skillweed Academy Certification" />
+</a>
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
