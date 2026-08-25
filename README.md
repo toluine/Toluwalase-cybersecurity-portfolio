@@ -60,7 +60,9 @@ To obtain a SOC Analyst position where I can apply my skills in threat detection
 <a href="https://drive.google.com/file/d/1QoO25YJzIQ7XuvJ8ScEZ20nKnQ8EcIZu/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/-SKILLWEED-28A745?style=for-the-badge&logoColor=white" alt="Skillweed Academy Certification" />
 </a>
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<a href="https://drive.google.com/drive/folders/1X6Vsju6GFFN8fz5ohaIlRU6TnXEvPnTK?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/-ISC2-28A745?style=for-the-badge&logo=isc2&logoColor=white" alt="ISC2 Certifications" />
+</a>
 </div>
 
 ## Projects
