@@ -51,8 +51,8 @@ To obtain a SOC Analyst position where I can apply my skills in threat detection
 <a href="https://drive.google.com/file/d/1lDLtsp5O8QDB6sY90G0RLh64fA4m8Gbj/view?usp=drive_link" target="_blank">
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
-  <a href="https://drive.google.com/file/d/1lDLtsp5O8QDB6sY90G0RLh64fA4m8Gbj/view?usp=drive_link](https://drive.google.com/file/d/1A9uRPcbFkU6J5zq4SyInkB1otOrbc2tt/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/-DELOITTE%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <a href="https://drive.google.com/file/d/1A9uRPcbFkU6J5zq4SyInkB1otOrbc2tt/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/-DELOITTE-28A745?style=for-the-badge&logo=Deloitte&logoColor=white" />
 </a>
 <img src="https://img.shields.io/badge/-DELOITTE%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
